@@ -9,7 +9,7 @@ public class HomeController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
-        String msg = "tndhs ecm-api service is running";
+        String msg = "sudip ecm-api service is running";
         return msg;
     }
 
