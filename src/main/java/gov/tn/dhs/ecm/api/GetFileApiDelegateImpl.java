@@ -1,7 +1,6 @@
 package gov.tn.dhs.ecm.api;
 
-import com.box.sdk.BoxConfig;
-import com.box.sdk.BoxDeveloperEditionAPIConnection;
+import com.box.sdk.BoxAPIConnection;
 import com.box.sdk.BoxFile;
 import gov.tn.dhs.ecm.AppProperties;
 import org.slf4j.Logger;
